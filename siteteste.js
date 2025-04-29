@@ -11,7 +11,7 @@ const courses = [
       title: "React.js Completo",
       description: "Domine React e construa aplicações incríveis!",
       price: "R$ 149,00",
-      image: "download.png"
+      image: "https://www.patterns.dev/img/reactjs/react-logo@3x.svg"
     },
     {
       id: 3,
